@@ -8,9 +8,9 @@ My goal is to use the skills I have developed to help others in a meaningful way
 
 ### My Skills
 
-**Languages**: C#, SQL, Python, Java
+**Languages**: C#, SQL, Java, Python
 
-**Software**: Visual Studio, SSMS, SSIS, Azure DevOps
+**Software**: Visual Studio, IntelliJ IDEA, SSMS, SSIS, Azure DevOps
 
 ### Contact Information
 [LinkedIn](https://www.linkedin.com/in/connordbullard/)
