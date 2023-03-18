@@ -12,9 +12,6 @@ My goal is to use the skills I have developed to help others in a meaningful way
 
 **Software**: Visual Studio, IntelliJ IDEA, SSMS, SSIS
 
-### Contact Information
-[LinkedIn](https://www.linkedin.com/in/connordbullard/)
-
 <!--
 **cdbullard/cdbullard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
